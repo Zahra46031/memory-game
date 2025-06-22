@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Zahra46031.github.io/memory-game",
+  "homepage": "https://zahra46031.github.io/memory-game/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
